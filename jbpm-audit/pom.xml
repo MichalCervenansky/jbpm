@@ -11,6 +11,7 @@
   </parent>
 
   <artifactId>jbpm-audit</artifactId>
+  <version>7.48.0.Final-redhat-00002-myfix</version>
   <packaging>bundle</packaging>
 
   <name>jBPM :: Audit</name>
@@ -18,7 +19,6 @@
 
   <properties>
     <java.module.name>org.jbpm.process.audit</java.module.name>
-    <version>7.48.0.Final-redhat-00002-myfix</version>
     <maven.jdbc.url>jdbc:h2:mem:bamTest;MVCC=TRUE</maven.jdbc.url>
   </properties>
 
