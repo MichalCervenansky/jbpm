@@ -112,7 +112,6 @@
     <dependency>
       <groupId>org.jbpm</groupId>
       <artifactId>jbpm-test-util</artifactId>
-      <version>7.48.0.Final-redhat-00002</version>
       <scope>test</scope>
     </dependency>
     <dependency>
