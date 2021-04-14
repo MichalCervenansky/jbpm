@@ -14,6 +14,7 @@
 
   <name>jBPM :: Test Util</name>
   <description>jBPM Test Util</description>
+  <version>7.48.0.Final-redhat-00002-myfix</version>
 
   <properties>
     <java.module.name>org.jbpm.testutil</java.module.name>
