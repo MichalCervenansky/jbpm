@@ -157,7 +157,7 @@
             <dependency>
                 <groupId>org.jbpm</groupId>
                 <artifactId>jbpm-test-util</artifactId>
-                <version>${project.version}</version>
+                <version>${version.org.kie}</version>
             </dependency>
             <dependency>
                 <groupId>simple-jndi</groupId>
